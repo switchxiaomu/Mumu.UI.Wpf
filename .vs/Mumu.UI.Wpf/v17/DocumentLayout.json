@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|d:\\workspace\\mumu\\mumu.ui.wpf\\mumu.ui.wpf\\controls\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\controls\\pagination\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\datas\\textboxvaluechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\datas\\textboxvaluechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B548A7A-2061-45A5-98E1-AD47747B4F1C}|MumuDemo\\MumuDemo.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumudemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B548A7A-2061-45A5-98E1-AD47747B4F1C}|MumuDemo\\MumuDemo.csproj|solutionrelative:mumudemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\themes\\pagination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\themes\\pagination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\controls\\numericbox\\numericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\controls\\numericbox\\numericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B548A7A-2061-45A5-98E1-AD47747B4F1C}|MumuDemo\\MumuDemo.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumudemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B548A7A-2061-45A5-98E1-AD47747B4F1C}|MumuDemo\\MumuDemo.csproj|solutionrelative:mumudemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\31964\\AppData\\Local\\Temp\\.vsdbgsrc\\7b670d64da4604b68f7823deeb641bd4202f6d3b04be05a0ca619b64bb1043c5\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\themes\\pathiconbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\themes\\pathiconbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\themes\\numericbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\themes\\numericbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\utils\\doubleutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\utils\\doubleutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\mumu.ui.wpf\\extensions\\uielementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D0AE5-09F2-498E-A550-04C42C007E03}|Mumu.UI.Wpf\\Mumu.UI.Wpf.csproj|solutionrelative:mumu.ui.wpf\\extensions\\uielementextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1059,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextBoxValueChangedEventArgs.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Datas\\TextBoxValueChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Datas\\TextBoxValueChangedEventArgs.cs",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Datas\\TextBoxValueChangedEventArgs.cs",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Datas\\TextBoxValueChangedEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-19T01:24:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagination.xaml",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Themes\\Pagination.xaml",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Themes\\Pagination.xaml",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Themes\\Pagination.xaml",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Themes\\Pagination.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-18T00:35:10.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\MumuDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MumuDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\MumuDemo\\MainWindow.xaml",
+              "RelativeToolTip": "MumuDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-18T03:14:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrameworkTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\31964\\AppData\\Local\\Temp\\.vsdbgsrc\\7b670d64da4604b68f7823deeb641bd4202f6d3b04be05a0ca619b64bb1043c5\\FrameworkTemplate.cs",
+              "ToolTip": "C:\\Users\\31964\\AppData\\Local\\Temp\\.vsdbgsrc\\7b670d64da4604b68f7823deeb641bd4202f6d3b04be05a0ca619b64bb1043c5\\FrameworkTemplate.cs",
+              "ViewState": "AQIAANwCAAAAAAAAAAAhwPECAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-18T03:23:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\MumuDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MumuDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\MumuDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MumuDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAADwvykAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-10-18T03:18:27.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UIElementExtensions.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Extensions\\UIElementExtensions.cs",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Extensions\\UIElementExtensions.cs",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Extensions\\UIElementExtensions.cs",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Extensions\\UIElementExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-18T02:36:21.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Controls\\Pagination\\Pagination.cs",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Controls\\Pagination\\Pagination.cs",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Controls\\Pagination\\Pagination.cs",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Controls\\Pagination\\Pagination.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAswFIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-18T00:34:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumericBox.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Controls\\NumericBox\\NumericBox.cs",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Controls\\NumericBox\\NumericBox.cs",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Controls\\NumericBox\\NumericBox.cs",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Controls\\NumericBox\\NumericBox.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwDMAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-18T01:03:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PathIconButton.xaml",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Themes\\PathIconButton.xaml",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Themes\\PathIconButton.xaml",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Themes\\PathIconButton.xaml",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Themes\\PathIconButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-18T03:35:27.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumericBox.xaml",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Themes\\NumericBox.xaml",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Themes\\NumericBox.xaml",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Themes\\NumericBox.xaml",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Themes\\NumericBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-18T01:04:06.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoubleUtil.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Utils\\DoubleUtil.cs",
+              "RelativeDocumentMoniker": "Mumu.UI.Wpf\\Utils\\DoubleUtil.cs",
+              "ToolTip": "D:\\WorkSpace\\Mumu\\Mumu.UI.Wpf\\Mumu.UI.Wpf\\Utils\\DoubleUtil.cs",
+              "RelativeToolTip": "Mumu.UI.Wpf\\Utils\\DoubleUtil.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-10-18T02:39:27.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

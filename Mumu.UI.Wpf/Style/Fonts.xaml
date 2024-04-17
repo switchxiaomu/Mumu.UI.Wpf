@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--  smallest pathdata width 24  -->
+    <!--  default fontsize 20  -->
+    <!--  square radius 4  -->
+    <!--  Color priority [IsEnabled >> ToBeSelected >> IsSelected >> Normal]  -->
+</ResourceDictionary>

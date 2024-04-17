@@ -1,0 +1,20 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <!--  Custom Controls  -->
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/PlainTextButton.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/PathIconButton.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/MenuButton.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/UnablePanel.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/ImageButton.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/ExTextBox.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/ThresholdRangeBar.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/BusyProgressBar.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/SwitchButton.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/RangeSlider.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/StepBar.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/NumericBox.xaml" />
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/Themes/Pagination.xaml" />
+        <!--  ControlTemplate  -->
+        <ResourceDictionary Source="/Mumu.UI.Wpf;component/ControlTemplates/ControlTemplate.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--  Native Color  -->
+    <SolidColorBrush x:Key="NativeWhiteColor" Color="#ffffff" />
+    <SolidColorBrush x:Key="NativeBlackColor" Color="#000000" />
+    <SolidColorBrush x:Key="NativeBlueColor" Color="#0000ff" />
+    <SolidColorBrush x:Key="NativeGreenColor" Color="#008000" />
+    <SolidColorBrush x:Key="NativeRedColor" Color="#ff0000" />
+    <SolidColorBrush x:Key="NativeYellowColor" Color="#ffff00" />
+    <SolidColorBrush x:Key="NativeOrangeColor" Color="#ffa500" />
+    <SolidColorBrush x:Key="NativePurpleColor" Color="#800080" />
+    <SolidColorBrush x:Key="NativeGrayColor" Color="#808080" />
+
+    <SolidColorBrush x:Key="MouseOverBackgroundColor" Color="#208aff" />
+    <SolidColorBrush x:Key="UNEnabledBackgroundColor" Color="#686868" />
+    <SolidColorBrush x:Key="UNEnabledInputBackgroundColor" Color="#353a3f" />
+    <SolidColorBrush x:Key="ButtonBackground" Color="#2f71bb" />
+    <SolidColorBrush x:Key="BorderBackground" Color="#4a5056" />
+    <SolidColorBrush x:Key="PlaceHolderForeground" Color="#2c3035" />
+    <SolidColorBrush x:Key="ThresholdGreenColor" Color="#00d328" />
+
+    <!--  Klarity Color  -->
+    <SolidColorBrush x:Key="WhiteColor" Color="#e9e9e9" />
+    <SolidColorBrush x:Key="GreenColor" Color="#71b63f" />
+    <SolidColorBrush x:Key="RedColor" Color="#e74c3c" />
+</ResourceDictionary>
